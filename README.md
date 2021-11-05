@@ -44,12 +44,12 @@ Primordialmente, cada gráfico de barras deve possuir um valor no seu topo, pois
 
 ## 3. Personalizando o gráfico 
 ### Título e Descrição
-⚠️ Passe mais um parâmetro para o seu gráfico, com o título e a descrição desejadas, alterando os valores como demonstra <br>
+⚠️ Para trocar o título e a descrição, altere os valores contidos abaixo:<br>
 
 <img width="1155" alt="Screen Shot 2021-11-05 at 15 27 20" src="https://user-images.githubusercontent.com/34018974/140562139-1133b9ad-5ff1-4da9-9d8b-918040811abe.png">
 
 
-### Cores 
-⚠️ Passe para seu gráfico, como parâmetro, um vetor de Cores (tipo Color). Seu vetor deve conter a mesma quantidade de cores que as variáveis. No caso, vamos utilizar apenas uma cor por estarmos analisando apenas um par de dados variável <br>
-* colors: [Color] <br>
-<img width="992" alt="Captura de Tela 2021-11-04 às 13 55 42" src="https://user-images.githubusercontent.com/53840501/140384073-7504ace4-662a-418f-b3d9-169cccd9c2fc.png">
+### Cor e Largura das Barras
+⚠️ Para alterar a cor e a largura das barras, altere os parâmetros como demonstrado na figura abaixo:<br>
+<br>
+<img width="1155" alt="Screen Shot 2021-11-05 at 15 26 38" src="https://user-images.githubusercontent.com/34018974/140562874-e25d6675-e7e3-4f65-bf00-32fcc610bf37.png">
