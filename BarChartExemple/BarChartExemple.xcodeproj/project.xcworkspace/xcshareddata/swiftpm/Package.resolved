@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Everest",
+        "repositoryURL": "https://github.com/Developer-Academy-Mackenzie-2021-2022/Everest",
+        "state": {
+          "branch": "dev",
+          "revision": "bd5000838515d1b98a32015a8a1c05f0b891cb11",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
